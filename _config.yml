@@ -22,10 +22,10 @@ repository               : "QuangPPham/quangppham.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "headshot.jpeg"
+  avatar           : "AI_Scholar_Headshot.jpg"
   name             : "Quang Pham"
-  pronouns         : # example: "she/her"  
-  bio              : "I am a senior Mechanical Engineering student and an AI Scholar at the University of Florida. I am interested in robotics planning, 3D reconstruction and novel view synthesis, and learning-based controls."
+  pronouns         : # "he/him"
+  bio              : "4-th year Mechanical Engineering student and an AI Scholar at the University of Florida."
   location         : "Gainesville, FL"
   employer         : "University of Florida"
   uri              : # URL

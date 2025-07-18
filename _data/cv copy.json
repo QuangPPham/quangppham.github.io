@@ -1,0 +1,134 @@
+{
+  "basics": {
+    "name": "Quang Pham",
+    "email": "quangpham@ufl.edu",
+    "phone": "747-256-8307",
+    "website": "https://quangppham.github.io",
+    "summary": "I am an undergraduate Mechanical Engineering student at the University of Florida. I am excited about robotics, including motion planning, reinforcement learning, and active perception. I have pursued research under the Active Perception and Robot Intelligence Lab, as well as the Smart Autonomy Lab, and I am always trying to learn more.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Gainesville",
+      "countryCode": "US",
+      "region": "FL"
+    },
+    "profiles": [
+      {
+        "network": "Kaggle",
+        "username": "ppquang",
+        "url": "https://www.kaggle.com/ppquang"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "",
+        "url": "https://www.linkedin.com/in/quang-pham-0a6132250/"
+      },
+      {
+        "network": "GitHub",
+        "username": "QuangPPham",
+        "url": "https://github.com/QuangPPham"
+      }
+    ]
+  },
+  "work": [],
+  "education": [
+    {
+      "institution": "University of Florida",
+      "area": "B.S. in Mechanical Engineering",
+      "studyType": "hello",
+      "startDate": "",
+      "endDate": "Expected May 2026",
+      "gpa": 3.98,
+      "courses": ["Machine Learning (Coursera)", "Robot Geometry I", "Control Systems", "Dynamics"]
+    }
+  ],
+  "skills": ["Python", "Git/Github", "ROS1/2", "Arduino", "Raspberry Pi", "Simulation (Gazebo, IsaacSim)", "Docker", "MATLAB", "Solidworks"],
+  "languages": ["English", "Vietnamese"],
+  "interests": [],
+  "references": [],
+  "publications": [
+    {
+      "name": "Paper Title Number 1",
+      "publisher": "Journal 1",
+      "releaseDate": "2009-10-01",
+      "website": "http://academicpages.github.io/files/paper1.pdf",
+      "summary": "This paper is about the number 1. The number 2 is left for future work."
+    },
+    {
+      "name": "Paper Title Number 2",
+      "publisher": "Journal 1",
+      "releaseDate": "2010-10-01",
+      "website": "http://academicpages.github.io/files/paper2.pdf",
+      "summary": "This paper is about the number 2. The number 3 is left for future work."
+    },
+    {
+      "name": "Paper Title Number 3",
+      "publisher": "Journal 1",
+      "releaseDate": "2015-10-01",
+      "website": "http://academicpages.github.io/files/paper3.pdf",
+      "summary": "This paper is about the number 3. The number 4 is left for future work."
+    },
+    {
+      "name": "Paper Title Number 4",
+      "publisher": "GitHub Journal of Bugs",
+      "releaseDate": "2024-02-17",
+      "website": "http://academicpages.github.io/files/paper3.pdf",
+      "summary": "This paper is about fixing template issue #693."
+    }
+  ],
+  "presentations": [
+    {
+      "name": "Talk 1 on Relevant Topic in Your Field",
+      "event": "UC San Francisco, Department of Testing",
+      "date": "2012-03-01",
+      "location": "San Francisco, CA, USA",
+      "description": ""
+    },
+    {
+      "name": "Tutorial 1 on Relevant Topic in Your Field",
+      "event": "UC-Berkeley Institute for Testing Science",
+      "date": "2013-03-01",
+      "location": "Berkeley, CA, USA",
+      "description": ""
+    },
+    {
+      "name": "Talk 2 on Relevant Topic in Your Field",
+      "event": "London School of Testing",
+      "date": "2014-02-01",
+      "location": "London, UK",
+      "description": ""
+    },
+    {
+      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
+      "event": "Testing Institute of America 2014 Annual Conference",
+      "date": "2014-03-01",
+      "location": "Los Angeles, CA, USA",
+      "description": ""
+    }
+  ],
+  "teaching": [
+    {
+      "course": "Teaching experience 1",
+      "institution": "University 1, Department",
+      "date": "2014-01-01",
+      "role": "Undergraduate course",
+      "description": ""
+    },
+    {
+      "course": "Teaching experience 2",
+      "institution": "University 1, Department",
+      "date": "2015-01-01",
+      "role": "Workshop",
+      "description": ""
+    }
+  ],
+  "portfolio": [
+    {
+      "name": "Portfolio item number 1",
+      "category": "portfolio",
+      "date": "",
+      "url": "",
+      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+    }
+  ]
+}
